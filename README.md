@@ -2,7 +2,7 @@
 
 👀 I’m into bringing ideas to life with code, exploring the intersection of creativity and functionality, and occasionally diving deep into C++ to sharpen my programming fundamentals
 
-🌱 I’m on a mission to master React while expanding my software development skills, from building web apps to solving complex DSA questions
+🌱 I’m on a mission to master React while expanding my software development skills, from building web apps to experementing with game engines
 
 💞️ I’m looking to collaborate on creative software projects, hackathons, and any cool ideas that push the boundaries of development
 
