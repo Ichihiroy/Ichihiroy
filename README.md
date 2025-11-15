@@ -2,7 +2,7 @@
 
 🎓 studying Information Technologies at Azerbaijan State University of Economics
 
-🛠️ currently mastering React while expanding my software development skills, from building web apps to experementing with game engines
+🛠️ currently mastering my software development skills, from building web apps to experementing with game engines
 
 💥 I’m looking to collaborate on creative software projects, hackathons, and any cool ideas that push the boundaries of development
 
