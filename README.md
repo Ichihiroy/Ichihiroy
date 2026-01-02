@@ -1,10 +1,6 @@
-# Hi there, I’m Yunis — a software nerd
-
-studying Information Technologies at Azerbaijan State University of Economics
-
-currently mastering my software development skills, from building web apps to experementing with game engines
-
-I’m looking to collaborate on creative software projects, hackathons, and any cool ideas that push the boundaries of development
+## Hi, I’m Yunis — a software nerd,
+I build web apps, break game engines, and occasionally fix the bugs I made.
+Always down for hackathons, wild projects, and anything that makes my brain hurt in a good way.
 
 
 ###  Tech Stack
@@ -31,10 +27,10 @@ I’m looking to collaborate on creative software projects, hackathons, and any 
 
 
 ### Socials
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realyanisquliyev@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yunis-quliyev24/) 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@realyanisquliyev)
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ichihiroy/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realyanisquliyev@gmail.com) 
 
 
 
