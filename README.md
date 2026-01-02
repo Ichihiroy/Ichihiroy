@@ -3,6 +3,8 @@
 I build software that kinda works,break game engines and occasionally fix the silly bugs that I have made. <br/>
 Huge ***Terry Davis*** fan and totally sane TempleOS user!!!!!!!!! 
 
+![Terry the KING Davis](https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif)
+
 
 ####  Tech Stack
 
