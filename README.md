@@ -1,4 +1,4 @@
-# Hi, I’m Yunis — a software developer passionate about crafting intuitive and responsive applications
+# Hi there, I’m Yunis — a software nerd
 
 🎓 studying Information Technologies at Azerbaijan State University of Economics
 
